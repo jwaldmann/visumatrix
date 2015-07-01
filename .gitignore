@@ -1,0 +1,8 @@
+*~
+*.hi
+*.o
+*.so.*
+*.zip
+*.exe
+build
+dist
